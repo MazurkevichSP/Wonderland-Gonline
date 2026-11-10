@@ -43,3 +43,6 @@ __pycache__/
 
 # Generated workbook inspections; keep the authored workbook itself.
 *.xlsx.inspect.ndjson
+
+# Local server build artifact from `go build ./cmd/wonderland`.
+/wonderland
